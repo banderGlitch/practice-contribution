@@ -73,6 +73,7 @@
 - Radha Maddeshiya, Python + Power BI, Intern at Cepialabs.
 - Shivam Yadav ,`Python`,Programmer Analyst
 - Prince Chaudhary, `JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
+- Nernay Kumar, `Full Stack + Data Science`, Programmer Analyst Intern at CepiaLads
 - Sakshi Rodhiya, `Frontend + React`, Programmer Analyst Intern at CepiaLabsd
 - Sumit Kumar, `Python`, Programmer Analyst 
 - Gagandeep Singh, `Mern Stack` Programmer Analyst at Capialabs.
